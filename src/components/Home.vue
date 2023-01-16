@@ -83,7 +83,7 @@ export default {
   justify-content: center;
 }
 .Eason {
-  margin: 0 auto;
+  margin: 0 auto; 
   padding-left: 68px;
   font-size: 43px;
   font-family: "Courier New", Courier, monospace;
